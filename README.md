@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# To visit builded project [Click Here](https://jolly-yonath-f6274d.netlify.app).
 
-Project Link [click to visit](https://jolly-yonath-f6274d.netlify.app).
+
 
 ## Available Scripts
 
